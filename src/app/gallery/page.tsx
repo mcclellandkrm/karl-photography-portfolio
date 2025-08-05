@@ -4,6 +4,8 @@ import CustomCursor from '@/components/CustomCursor';
 import Header from '@/components/Header';
 import InteractiveFeatures from '@/components/InteractiveFeatures';
 
+import Link from 'next/link';
+
 export default function Gallery() {
   return (
     <div className="min-h-screen bg-black text-white relative overflow-hidden">
@@ -81,8 +83,8 @@ export default function Gallery() {
         <div className="container">
           <div className="cta-content text-center">
             <h2 className="cta-title">Ready to Create Something Amazing?</h2>
-            <p className="cta-description">Let's discuss your next project</p>
-            <a href="/#contact" className="cta-button">Get In Touch</a>
+            <p className="cta-description">Let&apos;s discuss your next project</p>
+            <Link href="/#contact" className="cta-button">Get In Touch</Link>
           </div>
         </div>
       </section>

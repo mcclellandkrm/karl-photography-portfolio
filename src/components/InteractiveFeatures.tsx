@@ -27,7 +27,6 @@ export default function InteractiveFeatures() {
     const handleScroll = () => {
       const expandingImage = document.querySelector('.expanding-image') as HTMLElement;
       if (expandingImage) {
-        const rect = expandingImage.getBoundingClientRect();
         const windowHeight = window.innerHeight;
         const imageSection = expandingImage.closest('.full-image-section') as HTMLElement;
         

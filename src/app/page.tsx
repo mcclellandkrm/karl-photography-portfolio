@@ -166,7 +166,7 @@ export default function Home() {
               </div>
               <div className="service-content">
                 <div className="service-text">
-                  <p>We specialize in creating high-quality video and photo assets that tell your brand's story and connect with your audience. From concept development to final delivery, we manage the entire production process, ensuring your vision comes to life with stunning visuals and engaging narratives. Whether for advertising campaigns, branded content, or internal communications, our productions elevate your message.</p>
+                  <p>We specialize in creating high-quality video and photo assets that tell your brand&apos;s story and connect with your audience. From concept development to final delivery, we manage the entire production process, ensuring your vision comes to life with stunning visuals and engaging narratives. Whether for advertising campaigns, branded content, or internal communications, our productions elevate your message.</p>
                 </div>
                 <div className="service-image">
                   <img src="/images/services/commercial.jpg" alt="Commercial Production" />
@@ -230,7 +230,7 @@ export default function Home() {
               </div>
               <div className="service-content">
                 <div className="service-text">
-                  <p>Strategic creative guidance to elevate your brand's visual identity and storytelling approach. We collaborate with you to develop comprehensive creative strategies, concept development, and brand positioning that sets your business apart in the competitive marketplace.</p>
+                  <p>Strategic creative guidance to elevate your brand&apos;s visual identity and storytelling approach. We collaborate with you to develop comprehensive creative strategies, concept development, and brand positioning that sets your business apart in the competitive marketplace.</p>
                 </div>
                 <div className="service-image">
                   <img src="/images/services/product.jpg" alt="Creative Consultation" />
@@ -373,7 +373,7 @@ export default function Home() {
                 
                 <p>Based in Louisville, Kentucky, I specialize in creating authentic, compelling visual narratives for brands, individuals, and events. My approach combines technical expertise with creative vision to deliver images that not only look stunning but also connect emotionally with viewers.</p>
                 
-                <p>Every project is an opportunity to collaborate, create, and capture something unique. Whether it's a corporate campaign, a personal portrait session, or documenting a special event, I bring the same level of dedication and artistic vision to every shoot.</p>
+                <p>Every project is an opportunity to collaborate, create, and capture something unique. Whether it&apos;s a corporate campaign, a personal portrait session, or documenting a special event, I bring the same level of dedication and artistic vision to every shoot.</p>
                 
                 <div className="story-stats">
                   <div className="stat-item">

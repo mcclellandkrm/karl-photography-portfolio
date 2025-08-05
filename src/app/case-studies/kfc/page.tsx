@@ -42,7 +42,7 @@ export default function KFCCaseStudy() {
             <div className="overview-content">
               <h2 className="section-title">Project Overview</h2>
               <p className="overview-text">
-                KFC approached us to create a comprehensive visual campaign for their new menu launch. The challenge was to showcase their food in a way that felt both appetizing and premium while maintaining the brand's approachable personality.
+                KFC approached us to create a comprehensive visual campaign for their new menu launch. The challenge was to showcase their food in a way that felt both appetizing and premium while maintaining the brand&apos;s approachable personality.
               </p>
               <p className="overview-text">
                 Our team developed a visual strategy that combined dynamic food photography with lifestyle elements, creating images that not only looked delicious but told a story about the KFC dining experience.
@@ -81,7 +81,7 @@ export default function KFCCaseStudy() {
               <div className="step-number">[01]</div>
               <h3 className="step-title">Discovery & Strategy</h3>
               <p className="step-description">
-                We began with extensive brand research and competitor analysis to understand KFC's unique position in the market and identify opportunities for visual differentiation.
+                We began with extensive brand research and competitor analysis to understand KFC&apos;s unique position in the market and identify opportunities for visual differentiation.
               </p>
             </div>
             <div className="process-step">
@@ -95,14 +95,14 @@ export default function KFCCaseStudy() {
               <div className="step-number">[03]</div>
               <h3 className="step-title">Production</h3>
               <p className="step-description">
-                Over 5 days of shooting, we captured hundreds of images featuring KFC's menu items, using specialized food styling and lighting techniques to achieve maximum visual impact.
+                Over 5 days of shooting, we captured hundreds of images featuring KFC&apos;s menu items, using specialized food styling and lighting techniques to achieve maximum visual impact.
               </p>
             </div>
             <div className="process-step">
               <div className="step-number">[04]</div>
               <h3 className="step-title">Post-Production</h3>
               <p className="step-description">
-                Careful retouching and color grading ensured every image met KFC's brand standards while maintaining the authentic, mouth-watering appeal of their food.
+                Careful retouching and color grading ensured every image met KFC&apos;s brand standards while maintaining the authentic, mouth-watering appeal of their food.
               </p>
             </div>
           </div>

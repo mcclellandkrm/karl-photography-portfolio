@@ -43,7 +43,7 @@ export default function CaseStudies() {
                 </div>
                 <h2 className="case-study-title">KFC Brand Campaign</h2>
                 <p className="case-study-excerpt">
-                  A comprehensive visual campaign showcasing KFC's new menu items through dynamic food photography and lifestyle imagery that increased engagement by 45%.
+                  A comprehensive visual campaign showcasing KFC&apos;s new menu items through dynamic food photography and lifestyle imagery that increased engagement by 45%.
                 </p>
                 <div className="case-study-details">
                   <div className="detail-item">
