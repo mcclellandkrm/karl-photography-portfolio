@@ -140,11 +140,11 @@ export default function Home() {
           <div className="stepped-overlay">
             <div className="stepped-content">
               <div className="stepped-badge">KARL MCCLELLAND</div>
-              <div className="stepped-badge-2">LET'S WORK TOGETHER!</div>
+              <div className="stepped-badge-2">LET&apos;S WORK TOGETHER!</div>
               <h2 className="stepped-title">Join the List of Our Satisfied Clients</h2>
               <button className="stepped-button">
-                <span className="button-text">Let's Collaborate</span>
-                <span className="button-mask">Let's Collaborate</span>
+                <span className="button-text">Let&apos;s Collaborate</span>
+                <span className="button-mask">Let&apos;s Collaborate</span>
               </button>
             </div>
           </div>
